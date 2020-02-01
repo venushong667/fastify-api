@@ -1,2 +1,2 @@
 # fastify-api
-Restful APIs
+Restful APIs with Node.js and Fastify
